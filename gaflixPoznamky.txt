@@ -1,0 +1,18 @@
+Migrace - definuju tabulku, dbsqlite
+	make migrations prekonfiguruje aby to db chapala
+	strukturu databaze 
+
+createsuperuser - admin
+
+chceme furt stejnho admina ,
+ python manage.py dumpdata auth.User --indent 2 > fixtures/users.json
+
+pycache  - nevim draci binarni 
+
+migrace takova historie no
+
+templates - html soubory
+
+init treba napojit mysql db
+
+Pri zmene db makemigrations a pak migrate 

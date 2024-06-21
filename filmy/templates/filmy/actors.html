@@ -1,0 +1,17 @@
+{% extends 'filmy/base.html' %}
+
+{% block 'title' %}Actors | {{ block.super }}{% endblock %}
+
+{% block 'content' %}
+    <h1>Actors</h1>
+
+    {% for actor in actors %}
+     
+      <h2>{{actor.name}}</h2>
+
+        
+    {% endfor %}
+    </div>
+    <hr>
+
+{% endblock %}

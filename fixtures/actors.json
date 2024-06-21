@@ -1,0 +1,53 @@
+[
+    {
+      "model": "filmy.actor",
+      "pk": 2,
+      "fields": {
+        "name": "Al Pacino",
+        "birth_year": 1940,
+        "description": "Legendární americký herec, známý svými výkony ve filmech jako Kmotr, Scarface a Vůně ženy.",
+        "main_picture": ""
+      }
+    },
+    {
+      "model": "filmy.actor",
+      "pk": 3,
+      "fields": {
+        "name": "Meryl Streep",
+        "birth_year": 1949,
+        "description": "Oceňovaná americká herečka známá svou univerzálností a rolemi ve filmech jako Sofiina volba, Ďábel nosí Pradu a Iron Lady.",
+        "main_picture": ""
+      }
+    },
+    {
+      "model": "filmy.actor",
+      "pk": 4,
+      "fields": {
+        "name": "Leonardo DiCaprio",
+        "birth_year": 1974,
+        "description": "Slavný americký herec a producent, známý svými rolemi ve filmech jako Titanic, Počátek a Revenant.",
+        "main_picture": ""
+      }
+    },
+    {
+      "model": "filmy.actor",
+      "pk": 5,
+      "fields": {
+        "name": "Scarlett Johansson",
+        "birth_year": 1984,
+        "description": "Americká herečka a zpěvačka, známá svými výkony ve filmech jako Ztraceno v překladu, Avengers a Dívka s perlou.",
+        "main_picture": ""
+      }
+    },
+    {
+      "model": "filmy.actor",
+      "pk": 6,
+      "fields": {
+        "name": "Tom Hanks",
+        "birth_year": 1956,
+        "description": "Oblíbený americký herec a režisér, známý svými rolemi ve filmech jako Forrest Gump, Zachraňte vojína Ryana a Terminál.",
+        "main_picture": ""
+      }
+    }
+  ]
+  

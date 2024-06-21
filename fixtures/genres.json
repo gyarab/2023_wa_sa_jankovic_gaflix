@@ -1,0 +1,37 @@
+[
+    {
+      "model": "filmy.genre",
+      "pk": 5,
+      "fields": {
+        "name": "Horror"
+      }
+    },
+    {
+      "model": "filmy.genre",
+      "pk": 6,
+      "fields": {
+        "name": "Comedy"
+      }
+    },
+    {
+      "model": "filmy.genre",
+      "pk": 7,
+      "fields": {
+        "name": "Drama"
+      }
+    },
+    {
+      "model": "filmy.genre",
+      "pk": 8,
+      "fields": {
+        "name": "Action"
+      }
+    },
+    {
+      "model": "filmy.genre",
+      "pk": 9,
+      "fields": {
+        "name": "Science Fiction"
+      }
+    }
+  ]

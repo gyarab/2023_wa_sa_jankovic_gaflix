@@ -1,0 +1,32 @@
+[{
+    "model": "filmy.fotbal",
+    "pk": 1,
+    "fields": {
+      "name": "Maxa"
+    }
+  },
+  {
+    "model": "filmy.fotbal",
+    "pk": 2,
+    "fields": {
+      "name": "Merky"
+    }
+  },{
+    "model": "filmy.fotbal",
+    "pk": 3,
+    "fields": {
+      "name": "Kolanec"
+    }
+  },{
+    "model": "filmy.fotbal",
+    "pk": 4,
+    "fields": {
+      "name": "Jokal"
+    }
+  },{
+    "model": "filmy.fotbal",
+    "pk": 5,
+    "fields": {
+      "name": "Runovec"
+    }
+  }]

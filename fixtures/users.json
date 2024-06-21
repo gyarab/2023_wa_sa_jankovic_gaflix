@@ -1,0 +1,20 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$JZ56WLy2AKgEKTQ2RS8XYN$NhxxVu4FXuiq5txhpCAJRq1FsAFdUMVfqmC80Vu/llg=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@admin.cz",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-05-23T15:38:16.103Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]

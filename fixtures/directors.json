@@ -1,0 +1,54 @@
+
+  [
+    {
+      "model": "filmy.director",
+      "pk": 6,
+      "fields": {
+        "name": "Christopher Nolan",
+        "birth_year": 1970,
+        "description": "Renowned for his innovative storytelling and use of practical effects, Christopher Nolan is a British-American director known for films such as Inception, Interstellar, and The Dark Knight Trilogy.",
+        "main_picture": ""
+      }
+    },
+    {
+      "model": "filmy.director",
+      "pk": 7,
+      "fields": {
+        "name": "Quentin Tarantino",
+        "birth_year": 1963,
+        "description": "An American director celebrated for his eclectic style and dialogue-heavy scripts, Quentin Tarantino is known for films like Pulp Fiction, Kill Bill, and Django Unchained.",
+        "main_picture": ""
+      }
+    },
+    {
+      "model": "filmy.director",
+      "pk": 8,
+      "fields": {
+        "name": "Greta Gerwig",
+        "birth_year": 1983,
+        "description": "An American actress and director, Greta Gerwig has garnered acclaim for her work on Lady Bird and Little Women, known for their heartfelt storytelling and strong character development.",
+        "main_picture": ""
+      }
+    },
+    {
+      "model": "filmy.director",
+      "pk": 9,
+      "fields": {
+        "name": "Bong Joon-ho",
+        "birth_year": 1969,
+        "description": "A South Korean director known for his genre-bending films and social commentary, Bong Joon-ho directed critically acclaimed movies like Parasite, Snowpiercer, and Memories of Murder.",
+        "main_picture": ""
+      }
+    },
+    {
+      "model": "filmy.director",
+      "pk": 10,
+      "fields": {
+        "name": "Sofia Coppola",
+        "birth_year": 1971,
+        "description": "An American filmmaker known for her minimalist style and exploration of themes like loneliness and identity, Sofia Coppola directed films such as Lost in Translation, The Virgin Suicides, and Marie Antoinette.",
+        "main_picture": ""
+      }
+    }
+  ]
+  
