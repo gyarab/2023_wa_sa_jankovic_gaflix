@@ -44,9 +44,9 @@
       "model": "filmy.director",
       "pk": 10,
       "fields": {
-        "name": "Sofia Coppola",
-        "birth_year": 1971,
-        "description": "An American filmmaker known for her minimalist style and exploration of themes like loneliness and identity, Sofia Coppola directed films such as Lost in Translation, The Virgin Suicides, and Marie Antoinette.",
+        "name": "Peter Jackson",
+        "birth_year": 1961,
+        "description": "A director from New Zealand famous for the trilogy Lord Of the Rings.",
         "main_picture": ""
       }
     }

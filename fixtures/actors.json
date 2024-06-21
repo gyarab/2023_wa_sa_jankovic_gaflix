@@ -3,9 +3,9 @@
       "model": "filmy.actor",
       "pk": 2,
       "fields": {
-        "name": "Al Pacino",
-        "birth_year": 1940,
-        "description": "Legendární americký herec, známý svými výkony ve filmech jako Kmotr, Scarface a Vůně ženy.",
+        "name": "Cate Blanchett",
+        "birth_year": 1969,
+        "description": "Slavná herečka z Austrálie a producentka. Držitelka dvou Oscarů. Ztvárnila roli Galadriel v Pánovi Prstenů",
         "main_picture": ""
       }
     },
@@ -13,9 +13,9 @@
       "model": "filmy.actor",
       "pk": 3,
       "fields": {
-        "name": "Meryl Streep",
-        "birth_year": 1949,
-        "description": "Oceňovaná americká herečka známá svou univerzálností a rolemi ve filmech jako Sofiina volba, Ďábel nosí Pradu a Iron Lady.",
+        "name": "Christopher Lee",
+        "birth_year": 1922,
+        "description": "Významný britský herec, proslul zejména jako hrabě Drákula. Ztvárnil také Sarumana v Pánovi Prstenů nebo Hrabětě Dooku ze Star Wars. ",
         "main_picture": ""
       }
     },
@@ -23,9 +23,9 @@
       "model": "filmy.actor",
       "pk": 4,
       "fields": {
-        "name": "Leonardo DiCaprio",
-        "birth_year": 1974,
-        "description": "Slavný americký herec a producent, známý svými rolemi ve filmech jako Titanic, Počátek a Revenant.",
+        "name": "Ian McKellen",
+        "birth_year": 1939,
+        "description": "Britský herec proslaven svojí rolí Gandalfa v trilogiích Pán Prstenů a Hobbit.",
         "main_picture": ""
       }
     },
@@ -33,9 +33,9 @@
       "model": "filmy.actor",
       "pk": 5,
       "fields": {
-        "name": "Scarlett Johansson",
-        "birth_year": 1984,
-        "description": "Americká herečka a zpěvačka, známá svými výkony ve filmech jako Ztraceno v překladu, Avengers a Dívka s perlou.",
+        "name": "Orlando Bloom",
+        "birth_year": 1977,
+        "description": "Slavný britský herec. Proslavil se v roli Legolase z Pána Prstenů nebo Williama Turnera v Pirátech z Karibiku.",
         "main_picture": ""
       }
     },
@@ -43,11 +43,23 @@
       "model": "filmy.actor",
       "pk": 6,
       "fields": {
-        "name": "Tom Hanks",
-        "birth_year": 1956,
-        "description": "Oblíbený americký herec a režisér, známý svými rolemi ve filmech jako Forrest Gump, Zachraňte vojína Ryana a Terminál.",
+        "name": "Viggo Mortensen",
+        "birth_year": 1958,
+        "description": "Americký herec známý především za roli Aragorna syna Arathornova v Pánovi Prstenů.",
+        "main_picture": ""
+      }
+    },
+
+    {
+      "model": "filmy.actor",
+      "pk": 6,
+      "fields": {
+        "name": "Sean Bean",
+        "birth_year": 1959,
+        "description": "Slavný britský herec známý rolemi jako je například Boromir z Pána Prstenů, Odysseus ve Tróje nebo Lord Eddard Stark ve Hře o Trůny.",
         "main_picture": ""
       }
     }
+
   ]
   
